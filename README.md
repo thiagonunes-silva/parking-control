@@ -79,10 +79,9 @@ Esse Projeto foi desenvolvido para acompanhar o curso de Spring Boot ofertado pe
 
 ## Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Maven](https://maven.apache.org/). 
-Será necessário também ter o banco de dados [MySQL](https://www.mysql.com/) instalado na máquina e sendo executado na porta 3306. Crie um databse com o nome de **parking_control_db**.
-Além disto é bom ter um editor para trabalhar com o código como [Eclipse](https://www.eclipse.org/downloads/) e uma ferramenta que ajude a executar os endpoints disponibilizados pela API como o [Postman](https://www.postman.com/)
+- [x] Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Maven](https://maven.apache.org/). 
+- [x] Será necessário também ter o banco de dados [MySQL](https://www.mysql.com/) instalado na máquina e sendo executado na porta 3306. Crie um databse com o nome de **parking_control_db**.
+- [x] Além disto é bom ter um editor para trabalhar com o código como [Eclipse](https://www.eclipse.org/downloads/) e uma ferramenta que ajude a executar os endpoints disponibilizados pela API como o [Postman](https://www.postman.com/)
 
 
 ---

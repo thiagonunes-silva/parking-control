@@ -1,6 +1,3 @@
-# parking-control
-Sistema desenvolvido utilizando o framework spring boot
-
 <h1 align="center">
     Parking Control
 </h1>
@@ -12,7 +9,7 @@ Sistema desenvolvido utilizando o framework spring boot
 
 
 <h1 align="center">
-     ♻️ <a href="#" alt="site do ecoleta"> Parking Control </a>
+     Parking Control
 </h1>
 
 <h3 align="center">
@@ -21,7 +18,7 @@ Sistema desenvolvido utilizando o framework spring boot
 
 <p align="center">
 	
-  <img alt="Language" src="https://img.shields.io/static/v1?label=Language&message=Java&color=7159c1&style=for-the-badge&logo=ghost"/>
+  <img alt="language" src="https://img.shields.io/static/v1?label=language&message=Java&color=7159c1&style=for-the-badge&logo=ghost"/>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/thiagonunes-silva/parking-control">
   
@@ -113,10 +110,9 @@ $ npm run dev:server
 
 # O servidor inciará na porta:8080 - Acesse o endereço http://localhost:8080 utilizando algum browser
 
+# Import o arquivo Postman_API_ParkingControl.json disponibilizado na pasta do projeto no Postman e execute os endpoints disponibilizados para testar o sistema
+
 ```
-<p align="center">
-  <a href="https://github.com/thiagonunes-silva/parking-control/blob/master/Postman_API_ParkingControl.json" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Run in Postman"></a>
-</p>
 
 
 ---
